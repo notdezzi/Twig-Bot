@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "prefix": ".",
+
+    "embedColor": "#0099ff",
+    "embedColorError": "#e01e01",
+    "embedColorSuccess": "#008944"
+}
